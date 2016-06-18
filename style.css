@@ -1,0 +1,40 @@
+.bg{
+	background: url(image/Screen-shot-2013-11-13-at-2.49.25-PM.jpg);
+	background-size: 100%;
+}
+th{
+	background-color: #f39c12;
+}
+td{
+	background-color: #ecf0f1;
+	border-bottom: #f39c12;
+}
+.hasil{
+	border-bottom: #f39c12;
+	-moz-box-shadow: 0 1px 5px rgba(0, 0, 0, 1);
+    -webkit-box-shadow: 0 1px 5px rgba(0, 0, 0, 1);
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 1);
+    width: 80%;
+}
+.lapor{
+	height: 500px;
+}
+.i{
+	height: 520px;
+}
+.container{
+	-moz-box-shadow: 0 1px 5px rgba(0, 0, 0, 1);
+    -webkit-box-shadow: 0 1px 5px rgba(0, 0, 0, 1);
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 1);
+   background-color: #ecf0f1;
+   height: 590px;
+}
+.img-circle {
+        border-radius: 50%;
+        -moz-box-shadow: 0 1px 5px rgba(0, 0, 0, 1);
+    -webkit-box-shadow: 0 1px 5px rgba(0, 0, 0, 1);
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 1);
+}
+.footer{
+	padding: 120px;
+}
